@@ -1,0 +1,16 @@
+# 运行环境与大体积资产：不进 git，通过 GitHub Release 附件分发
+runtime/
+data/
+models/
+*.zip
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE / 系统
+.idea/
+.vscode/
+Thumbs.db
